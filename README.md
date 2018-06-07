@@ -54,7 +54,9 @@ $ react-native run-ios
 |<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-56-21.png">|<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-17-01-32.png" >|<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-17-11-07.png" >
 
 ## Video
+
 - Click the Youtube icon below
+
 [![WhatsApp Clone](https://img.youtube.com/vi/RlNt-Cl-6ZI/0.jpg)](https://www.youtube.com/watch?v=RlNt-Cl-6ZI)
 
 ## Powered By
