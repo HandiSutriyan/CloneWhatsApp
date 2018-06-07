@@ -55,7 +55,6 @@ $ react-native run-ios
 
 ## Video
 - Click the Youtube icon below
-https://youtu.be/
 [![WhatsApp Clone](https://img.youtube.com/vi/RlNt-Cl-6ZI/0.jpg)](https://www.youtube.com/watch?v=RlNt-Cl-6ZI)
 
 ## Powered By
