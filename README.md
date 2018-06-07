@@ -1,6 +1,6 @@
 # Clone WhatsApp
 
-Ini adalah sebuah tugas yang diberikan kepada kami sebagai peserta bootcamp di Arkademy, proyek ini menggunakan format Boiler Palte dari DumbWays.id.Aplikasi clone ini menggunakan React Native sebagai frameworknya.Fitur yang ada pada proyek aplikasi ini dibuat semirip mungkin dengan fitur aplikasi aslinya, seperti: chatting,upload gambar,panggilan suara, panggilan video, membuat status dan lain sebagainya.Namun karena keterbatasan kemampuan fitur yang tersedia pada proyek aplikasi clone ini belum bisa berjalan.
+Ini adalah sebuah tugas yang diberikan kepada kami sebagai peserta bootcamp di Arkademy, proyek ini menggunakan format Boiler Palte dari DumbWays.id. Aplikasi clone ini menggunakan React Native sebagai frameworknya.Fitur yang ada pada proyek aplikasi ini dibuat semirip mungkin dengan fitur aplikasi aslinya, seperti: chatting,upload gambar,panggilan suara, panggilan video, membuat status dan lain sebagainya. Namun karena keterbatasan kemampuan, fitur yang tersedia pada proyek aplikasi clone ini belum bisa berjalan.
 
 ## Teknologi yang digunakan
 
@@ -43,4 +43,6 @@ $ react-native run-ios
 - Aplikasi ini sudah menggunakan redux untuk proses pembacaan dan pengelolaan state-nya, dan sebagian menggunakan teknologi backend express.js dan mongoDB
 
 ## Screenshoot
+
+![alt text]https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-25-45.png
 
