@@ -59,7 +59,9 @@ $ react-native run-ios
 ![alt text](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-43-90.png)
 
 # Contact List 
--It is empty because actually it use REST API to read the data, but some problem makes it only return the row total number without the data
+-It is empty because actually it use REST API to read the data, but some problem makes it
+only return the row total number without the data
+
 ![alt text](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-48-84.png)
 
 # Create Text Status
@@ -72,5 +74,5 @@ $ react-native run-ios
 
 # Chat Screen
 - You can type your message here
-1[alt text](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-17-11-07.png)
+![alt text](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-17-11-07.png)
 
