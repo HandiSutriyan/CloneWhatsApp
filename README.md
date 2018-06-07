@@ -45,4 +45,5 @@ $ react-native run-ios
 ## Screenshoot
 
 ![alt text](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-25-45.png)
+![alt text](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-29-31.png)update
 
