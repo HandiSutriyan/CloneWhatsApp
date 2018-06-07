@@ -53,6 +53,14 @@ $ react-native run-ios
 |<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-37-84.png" >|<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-43-90.png" >|<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-48-84.png" >|
 |<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-16-56-21.png">|<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-17-01-32.png" >|<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/Screenshot_2018-06-07-14-17-11-07.png" >
 
+## Video
+- Click the Youtube icon below
 
+[![WhatsApp Clone](https://img.youtube.com/vi/wjw9C_hJzPw/0.jpg)](https://www.youtube.com/watch?v=wjw9C_hJzPw)
 
 ## Powered By
+
+|----------|----------|
+
+|![](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/WhatsApp%20Image%202018-06-07%20at%2007.23.44.jpeg)|![](https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/WhatsApp%20Image%202018-06-07%20at%2007.23.45.jpeg)|
+
