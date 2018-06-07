@@ -40,7 +40,7 @@ $ react-native run-ios
 
 ## Cara Kerja
 
-- Aplikasi ini sudah menggunakan redux untuk proses pembacaan state-nya, dan sebagian menggunakan teknologi backend express.js dan mongoDB
+- Aplikasi ini sudah menggunakan redux untuk proses pembacaan dan pengelolaan state-nya, dan sebagian menggunakan teknologi backend express.js dan mongoDB
 
 ## Screenshoot
 
