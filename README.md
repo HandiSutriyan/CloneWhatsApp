@@ -27,7 +27,7 @@ $ cd YourAppName
 $ npm install
 ```
 
-## Menjalankan aplikasi Anda
+## Running your app 
 
 Make sure that emulator has been opened,then:
 ```
@@ -36,11 +36,15 @@ or
 $ react-native run-ios
 ```
 
-## Cara Kerja
+## System
 
 - This application use redux  as state management and some part use express.js and MongoDB as backend technology
 
 ## Screenshoot
+-GIF
+
+<img src="https://github.com/HandiSutriyan/CloneWhatsApp/blob/master/20180607_204353.gif" width=230 height=400/>
+
 - They are the screenshoots of this application project
 
 |            |            |          |
